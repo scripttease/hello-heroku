@@ -3,5 +3,7 @@
 # on their machine
 source "https://rubygems.org"
 
+ruby "2.3.0"
+
 # Micro web framework
 gem "sinatra"
